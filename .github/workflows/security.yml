@@ -1,6 +1,8 @@
 # ══════════════════════════════════════════════════════════════════════════════
 # Example: security pipeline for a regular project.
 #
+#
+#
 # Copy this to your repo's .github/workflows/security.yml and adjust the
 # placeholders. SAST and Secrets are enabled and blocking out of the box -
 # that's the recommended baseline for any repo. SCA is enabled too, but
